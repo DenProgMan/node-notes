@@ -1,0 +1,30 @@
+{
+  "name": "notes",
+  "version": "0.0.1",
+  "description": "The Node Notes project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenProgMan/node-notes.git"
+  },
+  "keywords": [
+    "Node",
+    "Notes"
+  ],
+  "author": "DenProgMan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DenProgMan/node-notes/issues"
+  },
+  "homepage": "https://github.com/DenProgMan/node-notes#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.8.0",
+    "@typescript-eslint/parser": "^5.8.0",
+    "eslint": "^8.5.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.3"
+  }
+}
